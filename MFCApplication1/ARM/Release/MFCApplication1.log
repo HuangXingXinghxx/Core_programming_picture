@@ -1,0 +1,8 @@
+﻿生成启动时间为 2018/10/17 14:08:03。
+     1>项目“C:\huangxingxing\multi-core-pragrammming\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\ARM\PlatformToolsets\v120\Toolset.targets(36,5): error MSB8022: Compiling Desktop applications for the ARM platform is not supported.
+     1>已完成生成项目“C:\huangxingxing\multi-core-pragrammming\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.03
